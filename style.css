@@ -1,0 +1,19 @@
+* {
+  font-family: 'Avenir', sans-serif;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  height: 500px;
+  font-weight: lighter;
+  color: white;
+}
+
+#clock {
+  margin-top: 20%;
+  font-size: 7em;
+  text-align: center;
+  color: white;
+}
